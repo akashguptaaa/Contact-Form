@@ -1,9 +1,3 @@
-
-
-
-
-
-
 @extends('layouts.front_design')
 @section('contact_title','Thank You')
 
